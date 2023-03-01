@@ -1,0 +1,27 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+    background-color: rgb(0, 110, 255)
+}
+
+h1 {
+    color: greenyellow;
+}
+
+h1, 
+h2 {
+    text-align: center;
+    font-weight: 700;
+}
+
+div {
+    background-color: aqua;
+    color: green;
+    font-size: 24px;
+}
+
+img {
+    align-content: center;
+}
